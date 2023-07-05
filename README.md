@@ -1,6 +1,6 @@
 # Lucky-Cyber-Cafe
 
-**Need of Proposed System:**
+*Need of Proposed System:*
  The proposed system will help owner to manage vacant and occupied computers.
  This system will help customer to book vacant computers.
  The proposed system will help user by providing a user-friendly interface to easily
@@ -9,7 +9,7 @@ manage daily sales in cyber cafe.
  With the help of this system user will add regular customer to his member list to give
 more benefits to them, like booking in advanced. 
 
-**Scope of the proposed System:**
+*Scope of the proposed System:*
  Login Module: Used for managing the login details.
  Computer Module: It is related to managing computer details. (login & logout time)
  User Module: Here customer will book slot of vacant computers and can maintain
